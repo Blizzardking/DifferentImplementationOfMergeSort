@@ -1,5 +1,7 @@
 I.Author: Renkai Ji
-II.Purpose: 
+-------------------
+II.Purpose
+----------
 1. Implement 3 versions of Merge Sort, and compare their running times
    on large values of N.  Assume that N is an even power of 2.
    Submit statistics for different values of N, up to N = 2^20 = 1048576.
@@ -19,6 +21,7 @@ II.Purpose:
 
 
 III. Note
+---------
 
 1. The directory P1 contains the JAVA source code, as well as the statistics of comparison of performance of three implementations of merge sort. The source code is well self-explained with a litte comment.
 
