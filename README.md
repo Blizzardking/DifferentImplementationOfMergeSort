@@ -17,8 +17,7 @@ II.Purpose
 
 2. Compare performance of Merge Sort and Quick Sort for sorting large
    amount of data that does not fit within memory.  This is called external
-   sorting.  For more details, contact the instructor.
-
+   sorting.  
 
 III. Note
 ---------
